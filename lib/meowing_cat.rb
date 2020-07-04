@@ -1,4 +1,4 @@
 class Cat
-  attr
+  attr_accesor
   
   end
