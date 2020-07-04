@@ -1,7 +1,7 @@
 class Cat
-  attr_writer :name
-  attr_reader :name
+  attr_writer :maru
+  attr_reader :maru
   
-  name.meow
+  maru.meow
   
   end
