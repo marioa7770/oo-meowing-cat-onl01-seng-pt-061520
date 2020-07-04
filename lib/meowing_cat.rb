@@ -1,2 +1,2 @@
 class Cat
-  attr_a.meow## code your solution here. 
+  attr_reader.meow## code your solution here. 
