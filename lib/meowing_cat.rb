@@ -1,2 +1,2 @@
 class Cat
-  attr_acessor.meow## code your solution here. 
+  attr_a.meow## code your solution here. 
